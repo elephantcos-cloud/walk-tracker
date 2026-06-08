@@ -31,7 +31,7 @@
         android:icon="@mipmap/ic_launcher"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:label="পথচলা"
-        android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"
+        android:theme="@style/android:Theme.Black.NoTitleBar"
         android:supportsRtl="true">
 
         <activity
